@@ -1,5 +1,3 @@
-# interviewQuestion
-
 Q.1) Write a program to calculate the maximum product from the 4 element of an array
 
 Soln :
